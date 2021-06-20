@@ -44,7 +44,7 @@
 ### Week-6
 `Deze week was voor mij erg lastig om alles werkend te krijgen voor de eindbeoordeling, de effecten die ik in gedachten had om uit te voeren kwamen niet goed uit de verf en de code ging vaak stuk. Uiteindelijk heb ik toch iets weten op te leveren.`
 
-### Week-6
+### Herkansingsperiode
 `Tijdens de herkansingsperiode heb ik opnieuw gekeken naar mijn idee, het was inderdaad summier met de effecten die tevoorschijn kwamen wanneer je lachte naar de camera. Tijdens het feedback moment kwam ik op nieuwe inzichten zoals muziek afspelen omdat het concept over een feestje bouwen gaat. Het was me niet meer gelukt om andere aanpassingen aan te brengen aan bijvoorbeeld de rectangles en moest ik hier wat anders op verzinnen.
 
 Ik ben het internet afgestruind om te kijken naar andere muziek concepten die werden gemaakt met p5. Ik kwam uit op een artikel op tympanus.net waarbij ze visualisaties maken op basis van muziek. Ik vond dit zeer interessant en goed bij mijn idee van een 'feestje' passen en heb de sources gedownload om een eigen audio visualizer te maken. Ik heb hierbij 3 nummers ingeladen die random afspelen als je de code start. Ook veranderd de visualisatie op geluid, positie van je muis en hoe breed je lach is. Dit laat ik ook zien in de video. Nadat ik een audio visualizer had gemaakt was het even spannend om het werkend te krijgen in mijn eerdere code. Na heel wat foutmeldingen is het me toch eindelijk gelukt om het werkend te krijgen en ben ik zeer onder de indruk van mijn eindresultaat. Ik had tot een paar dagen geleden niet gedacht dat het me zou lukken.`
