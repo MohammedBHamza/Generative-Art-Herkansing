@@ -1,0 +1,56 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #351025;
+}
+canvas {
+  display: block;
+}
+
+.playbutton{
+background-color: transparent;
+border-color: #ED688B;
+border-width: 2px;
+color:#ED688B;
+width: 100px;
+height: 40px;
+font-size: 20px;
+border-radius: 10px;
+margin: 10px 50px;
+font-family: 'Rajdhani', sans-serif;
+cursor: pointer;
+}
+
+.playbutton:hover{
+color: white;
+background-color:#ED688B;
+}
+
+.slider{
+  margin: 10px 50px;
+  
+}
+
+.slider {
+    -webkit-appearance: none;
+    margin:10px 50px;
+  	border-radius: 30px;
+    width: 300px;
+    height: 10px;
+    background: #bc5e77;
+    outline: none;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 17px;
+    height: 17px;
+    border-radius:30px;
+    background: #ED688B;
+    cursor: pointer;
+  	
+}
